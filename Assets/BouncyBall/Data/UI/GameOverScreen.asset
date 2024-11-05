@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42cb86da721faa843ad1abf9d83eac6c, type: 3}
+  m_Name: GameOverScreen
+  m_EditorClassIdentifier: 
+  hidePrevious: 1
+  blockInteractionDuringTransition: 0
+  showTransitionConfig: {fileID: 11400000, guid: 16e59840412c8f643bd3e1ecc76640bf, type: 2}
+  hideTransitionConfig: {fileID: 11400000, guid: 16e59840412c8f643bd3e1ecc76640bf, type: 2}
+  sliceConfigList:
+  - slice: {fileID: 9051669856585299892, guid: 96f340a3adc09954bbc63a4c6996fac4, type: 3}
+    overrideViewShowTransition: 0
+    overrideViewHideTransition: 0
+    showTransitionConfig: {fileID: 0}
+    hideTransitionConfig: {fileID: 0}
